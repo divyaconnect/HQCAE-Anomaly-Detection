@@ -1,2 +1,6 @@
 # HQCAE-Anomaly-Detection
-<img width="328" height="2268" alt="image" src="https://github.com/user-attachments/assets/2ebe3729-7d2a-4e9c-bab1-4108d35c2f6e" />
+Quantum-Assisted Dual-Space Autoencoder for Intelligent Anomaly Detection
+Bridging Classical Representation Learning with Quantum Entanglement Intelligence
+<h1 align="center">Hybrid Quantum-Classical Autoencoder for Anomaly Detection</h1>
+
+<h3 align="center">Enhanced with Quantum Entanglement Intelligence and Dual-Space Analytics</h3>
