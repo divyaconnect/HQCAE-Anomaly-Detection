@@ -127,7 +127,7 @@ The framework is evaluated using multivariate datasets and analyzed through:
 Quantum-Anomaly-Detection/
 │
 ├── assets/
-│   ├── demo.mp4                  # Renamed from the Chrome screen recording
+│   ├── demo.mp4                  
 │   └── hqca-pictures.pdf
 ├── docs/
 │   └── HCQA-Research-paper.pdf
