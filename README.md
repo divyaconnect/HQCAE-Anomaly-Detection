@@ -219,11 +219,13 @@ jupyter notebook hqcae_experiment.ipynb
 
 ### Future Scope
 
-Real Quantum Hardware Implementation
-Large-Scale Anomaly Detection
-Industrial Monitoring Applications
-Quantum Explainable AI
-Cybersecurity Analytics
+| Domain | Focus Area | Planned Enhancement |
+| :--- | :--- | :--- |
+| ⚛️ ![Hardware](https://img.shields.io/badge/Quantum%20Hardware-8E75B2?style=flat-square) | **Real Quantum Hardware Implementation** | Executing variational circuits on real NISQ quantum processors with noise mitigation |
+| 🚀 ![Scale](https://img.shields.io/badge/Scalability-007EC6?style=flat-square) | **Large-Scale Anomaly Detection** | Scaling high-dimensional feature encoding for massive streaming datasets |
+| 🏭 ![Industry](https://img.shields.io/badge/Industrial%20IoT-2EA44F?style=flat-square) | **Industrial Monitoring Applications** | Real-time predictive maintenance and telemetry fault detection |
+| 🧠 ![QXAI](https://img.shields.io/badge/Explainable%20AI-F37626?style=flat-square) | **Quantum Explainable AI** | Mapping Von Neumann entropy and qubit measurements to human-readable insights |
+| 🛡️ ![Security](https://img.shields.io/badge/Cybersecurity-E05D44?style=flat-square) | **Cybersecurity Analytics** | Zero-day intrusion and subtle behavioral threat detection |
 
 ---
 
