@@ -116,6 +116,7 @@ This enables anomaly detection in both classical and quantum feature spaces.
 
 ### Technologies Used
 
+
 Python
 PyTorch
 PennyLane
@@ -175,28 +176,17 @@ Quantum-Anomaly-Detection/
 
 ---
 
-
-
 ### Installation
-
-
-
-```bash
 
 git clone https://github.com/yourusername/Quantum-Anomaly-Detection.git
 
-
-
 cd Quantum-Anomaly-Detection
-
-
 
 pip install -r requirements.txt
 
 ```
 
 ---
-
 
 ### Live Demo
 
