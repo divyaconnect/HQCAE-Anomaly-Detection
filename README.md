@@ -151,7 +151,7 @@ pip install -r requirements.txt
 
 🎥 Project Demonstration
 
-[hqcae-demo.mp4](./hqcae-demo.mp4)
+https://jumpshare.com/s/tyL19A90WEElwCglm9Y3
 
 
 ### Run Project
