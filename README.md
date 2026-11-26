@@ -127,11 +127,17 @@ The framework is evaluated using multivariate datasets and analyzed through:
 Quantum-Anomaly-Detection/
 │
 ├── assets/
-├── hqcae_experiment.ipynb
+│   ├── demo.mp4                  # Renamed from the Chrome screen recording
+│   └── hqca-pictures.pdf
+├── docs/
+│   └── HCQA-Research-paper.pdf
+├── notebooks/
+│   ├── hqcae_experiment.ipynb
+│   └── HQCAE-anomalyquantum.ipynb
 ├── requirements.txt
+├── LICENSE
 ├── README.md
 └── .gitignore
-```
 
 ---
 
