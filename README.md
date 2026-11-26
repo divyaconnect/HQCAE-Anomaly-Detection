@@ -151,7 +151,7 @@ pip install -r requirements.txt
 
 🎥 Project Demonstration
 
-https://me-l.co/brrk57qs
+[https://me-l.co/brrk57qs](https://me-l.co/x1zvkeam)
 
 
 
