@@ -137,17 +137,17 @@ This enables anomaly detection in both classical and quantum feature spaces.
 
 ---
 
-### Experimental Evaluation
+## Experimental Evaluation
 
 The framework is evaluated using multivariate datasets and analyzed through:
 
-Training Loss Curves
-Validation Performance
-ROC Analysis
-Precision & Recall
-Confusion Matrix
-Entropy Distribution Analysis
-Feature-Level Reconstruction Error
+- 📈 ![Training Loss](https://img.shields.io/badge/Metric-Training%20Loss%20Curves-2563EB?style=flat-square) **Training Loss Curves**
+- ✅ ![Validation](https://img.shields.io/badge/Metric-Validation%20Performance-16A34A?style=flat-square) **Validation Performance**
+- 📉 ![ROC](https://img.shields.io/badge/Metric-ROC%20Analysis-7C3AED?style=flat-square) **ROC Analysis**
+- 🎯 ![Precision & Recall](https://img.shields.io/badge/Metric-Precision%20%26%20Recall-D97706?style=flat-square) **Precision & Recall**
+- 🧩 ![Confusion Matrix](https://img.shields.io/badge/Metric-Confusion%20Matrix-DB2777?style=flat-square) **Confusion Matrix**
+- 🌀 ![Entropy](https://img.shields.io/badge/Metric-Entropy%20Distribution-0891B2?style=flat-square) **Entropy Distribution Analysis**
+- 🔍 ![Feature Error](https://img.shields.io/badge/Metric-Feature--Level%20Error-DC2626?style=flat-square) **Feature-Level Reconstruction Error**
 
 ---
 
