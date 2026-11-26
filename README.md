@@ -32,7 +32,7 @@ This research explores whether quantum representations and entanglement characte
 ---
 
 ### Architecture Summary
-<div align="center">
+
 ```text
 Input Features
       │
