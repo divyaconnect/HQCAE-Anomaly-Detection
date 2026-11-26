@@ -151,7 +151,7 @@ pip install -r requirements.txt
 
 🎥 Project Demonstration
 
-<img width="4032" height="696" alt="image" src="https://github.com/user-attachments/assets/79075ff8-0af4-4461-a18a-5b794169509b" />
+https://me-l.co/brrk57qs
 
 
 
