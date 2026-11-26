@@ -95,15 +95,12 @@ Von Neumann Entropy
 Quantum correlation measurement
 Latent anomaly characterization
 
-
 ---
 
 ### Hybrid Anomaly Scoring
 
 The final anomaly score combines classical and quantum information:
-
 ```text
-
 Score = Reconstruction Error
 
 + λ × Quantum Entropy
@@ -113,9 +110,6 @@ Score = Reconstruction Error
 This enables anomaly detection in both classical and quantum feature spaces.
 
 ---
-
-### Technologies Used
-
 
 ### Technologies Used
 
@@ -183,8 +177,6 @@ Quantum-Anomaly-Detection/
 
 └── .gitignore
 
-
-
 ---
 
 ### Installation
@@ -215,7 +207,6 @@ jupyter notebook hqcae_experiment.ipynb
 ```
 
 ---
-
 
 ### Future Scope
 
